@@ -13,3 +13,5 @@ I also developed an automated attendance recording system using a structured bac
 Achieving quick processing while upholding precision necessitated adjusting thresholds and enhancing the recognition process.
 
 This project enhanced my abilities in computer vision, model optimization, data pipeline development, and comprehensive problem-solving
+
+Github link of the project - https://github.com/prekshachaudhry05/facial-recognition-attendance
